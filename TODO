@@ -1,0 +1,8 @@
+- overwrite previous(non-ended) query by new one
+- do not query the same request
+- store columns parameters for tag trees
+- hint box in object_editor
+- do not process release event on resizing columns
+- add completion to tag/trait fields in object_editor
+- add shares to traits
+- do not count wrong objects after Created event

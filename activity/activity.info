@@ -1,0 +1,7 @@
+[Activity]
+name = Library
+bundle_id = org.sugarlabs.Library
+exec = sugar-activity activity.Library
+icon = activity-library
+activity_version = 1
+license = GPLv2+
